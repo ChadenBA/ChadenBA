@@ -1,22 +1,22 @@
 
 <h1 align="center">Hi 👋, I'm Chaden</h1>
-<h3 align="center">I am a passionate web developer and DevOps beginner from Tunisia</h3>
+<h3 align="center">I am a passionate web developer and DevOps/DevSecOps enthusiast from Tunisia, eager to grow and contribute in both fields.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chadenba&label=Profile%20views&color=0e75b6&style=flat" alt="chadenba" /> </p>
 
-- 🌱 I am actively engaged in learning **DevOps & Cloud**
+- 🌱 I am actively engaged in learning **DevOps & DevSecOps & Cloud**
 
 - 👯 I’m looking to collaborate on **DEVOPS projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChadenBA](https://github.com/ChadenBA)
 
-- 💬 Ask me about **nodeJs, Elk and Docker**
+- 💬 Ask me about **nodeJs, Jenkins, CI/CD, Elk and Docker**
 
 - 📫 How to reach me **chedenbenammar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chaden ben ammar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaden ben ammar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chaden-ben-ammar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaden ben ammar" height="30" width="40" /></a>
 </p>
 <img src="https://media2.giphy.com/media/B5QDyiw4j8Xrq/giphy.gif?cid=6c09b952vh7juv8dt9ehoxrrs7ckn8josbvuat2trrc8wv5n">
 <h3 align="left">Languages and Tools:</h3>
