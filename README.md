@@ -103,16 +103,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chadenba&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chadenba&theme=tokyonight" alt="streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chadenba&theme=tokyo-night" alt="activity graph"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chadenba&theme=dracula&margin-w=15&margin-h=15" alt="trophies"/>
-</p>
 
 ---
 
